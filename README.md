@@ -25,7 +25,7 @@ track the minutes and calories of your day.
 npm install
 npm run dev
 ```
-Open http://localhost:3000
+Open fitlog-dun-xi.vercel.app
 
 ## 🔗 Links
 - Live: <your-live-link>
